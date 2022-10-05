@@ -1,0 +1,11 @@
+Firstname,Lastname,Username,OUPath,Office,maildomain,Title,Department,Password
+Mike,Smith,msmith,"OU=Cincinnati,DC=example,DC=local",Cincinnati,example.local,Manager,IT,pa$$w0rd
+Terry,Anderson,tanderson,"OU=Cincinnati,DC=example,DC=local",Cincinnati,example.local,Manager,Marketing,pa$$w0rd
+Amelia,Spillman,aspillman,"OU=Cincinnati,DC=example,DC=local",Cincinnati,example.local,Manager,Call Center,pa$$w0rd
+Jake,Abram,jabram,"OU=Cincinnati,DC=example,DC=local",Cincinnati,example.local,Staff,Marketing,pa$$w0rd
+Janet,Masi,jmasi,"OU=Cincinnati,DC=example,DC=local",Cincinnati,example.local,Staff,Call Center,pa$$w0rd
+Don,Hirsh,dhirsh,"OU=NewYork,DC=example,DC=local",New York,example.local,Manager,Sales,pa$$w0rd
+Alonso,Gaus,agaus,"OU=NewYork,DC=example,DC=local",New York,example.local,Manager,Sales,pa$$w0rd
+Cristen,Romo,cromo,"OU=NewYork,DC=example,DC=local",New York,example.local,Staff,HR,pa$$w0rd
+Marina,Steere,msteere,"OU=NewYork,DC=example,DC=local",New York,example.local,Staff,Sales,pa$$w0rd
+Cindy,Barrier,cbarrier,"OU=NewYork,DC=example,DC=local",New York,example.local,Staff,HR,pa$$w0rd
